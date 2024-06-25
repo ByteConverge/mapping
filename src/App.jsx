@@ -27,6 +27,7 @@ function handleIsShown(){
 
   return (
     <div>
+      <img src="Xlogo.svg" alt="" />
     <h1>
       <span>emojipedia 
       </span>
